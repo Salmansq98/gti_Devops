@@ -1,0 +1,2 @@
+[webserver]
+ansible1 ansible_hosts=18.132.42.238 ansible_user=centos
